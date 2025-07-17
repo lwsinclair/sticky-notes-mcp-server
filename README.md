@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aymaneelhichami-sticky-notes-mcp-server-badge.png)](https://mseep.ai/app/aymaneelhichami-sticky-notes-mcp-server)
+
 # mcp-server-demo (AI sticky notes)
 AI Sticky Notes: A Model Context Protocol (MCP) application that enables Claude Desktop to create, read, and manage persistent sticky notes.
 
